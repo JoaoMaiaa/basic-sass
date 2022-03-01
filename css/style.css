@@ -1,3 +1,37 @@
+.container h1 {
+  color: #00f;
+  font-size: 36px;
+  font-family: Arial;
+}
+.container p {
+  padding: 5px 10px;
+  color: #101;
+}
+.container button {
+  background-color: #101;
+  color: #fff;
+  width: 150px;
+  padding: 10px 0px;
+  font-size: 15px;
+  cursor: pointer;
+}
 
+.container p {
+  color: #101;
+  font-family: Arial;
+  font-size: 25px;
+}
+
+.container .contact-text {
+  color: #f00;
+  font-family: "Trebuchet MS";
+  font-size: 18px;
+}
+
+.container .register-text {
+  color: #00f;
+  font-family: "Trebuchet MS";
+  font-size: 18px;
+}
 
 /*# sourceMappingURL=style.css.map */

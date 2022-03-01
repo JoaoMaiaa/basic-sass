@@ -1,0 +1,5 @@
+.container{
+    .register-text{
+        @include text-style($text-secondary, 'Trebuchet MS', 18px)
+    }
+}

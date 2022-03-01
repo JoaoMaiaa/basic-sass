@@ -1,0 +1,25 @@
+.container{
+    h1{
+        color:$text-secondary;
+        font-size:36px;
+        font-family: Arial;
+    }
+    p{
+        padding:5px 10px;
+        color:$text-dark;
+    }
+    button{
+        background-color:$background-dark;
+        color:$text-white;
+        width:150px;
+        padding:10px 0px;
+        font-size:15px;
+        cursor:pointer;
+    }
+}
+
+@mixin text-style($color, $font-family, $font-size) {
+    color:$color;
+    font-family:$font-family;
+    font-size:$font-size;
+}

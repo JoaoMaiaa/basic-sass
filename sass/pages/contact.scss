@@ -1,0 +1,5 @@
+.container{
+    .contact-text{
+        @include text-style($text-danger, 'Trebuchet MS', 18px)
+    }
+}

@@ -1,0 +1,16 @@
+// colors
+@import 'variables/colors/colors.scss';
+
+// variables (margin, padding, font-family, etc).
+@import 'variables/common/common.scss';
+
+// pages
+
+@import './pages/index.scss';
+
+// contact
+@import 'pages/contact.scss';
+
+// register
+@import 'pages/register.scss';
+
